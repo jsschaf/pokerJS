@@ -21,4 +21,5 @@ Run poker.js, sending input from STDIN
 
 
 For example, in Unix/Mac:
-node poker.js < poker-hand.txt
+
+>node poker.js < poker-hand.txt
