@@ -5,7 +5,7 @@ Nodejs program to evaluate poker hands.
 Input is from STDIN, in format: 
 >AH 9S 4D TD 8S 4H JS 3C TC 8D
 >
->|--Player 1--| |--Player 2--|
+>|---Player 1---| |---Player 2---|
 
 Output to STDOUT, in format:
 >Player 1: 10 hands
