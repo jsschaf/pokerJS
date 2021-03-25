@@ -8,6 +8,7 @@ Input is from STDIN, in format:
 
 Output to STDOUT, in format:
 >Player 1: 10 hands
+>
 >Player 2: 12 hands
 
 ## To Run
